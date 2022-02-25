@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fruitful wonder: or, A strange relation from Kingston upon Thames Of a woman, who on Thursday and Friday, being the 5th. and 6th. days of this instant March, 1673/4. VVas delivered of four children at one birth, viz. three sons and one daughter, all born alive, lusty children, and perfect in every part; which lived 24 hours, and then dyed all much about the same time. VVith several other examples of numerous births from credible historians. VVith the physical and astrological reasons for the same. Published by J. P. student in physick.</title>
+            <author>J. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56432</idno>
+            <idno type="STC">Wing P52A</idno>
+            <idno type="STC">ESTC R220453</idno>
+            <idno type="EEBO-CITATION">99831853</idno>
+            <idno type="PROQUEST">99831853</idno>
+            <idno type="VID">36320</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36320)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2129:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fruitful wonder: or, A strange relation from Kingston upon Thames Of a woman, who on Thursday and Friday, being the 5th. and 6th. days of this instant March, 1673/4. VVas delivered of four children at one birth, viz. three sons and one daughter, all born alive, lusty children, and perfect in every part; which lived 24 hours, and then dyed all much about the same time. VVith several other examples of numerous births from credible historians. VVith the physical and astrological reasons for the same. Published by J. P. student in physick.</title>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Rosse,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Childbirth --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36320:1" rendition="simple:additions"/>
+            <p>The Fruitful Wonder: OR, A Strange Relation from <hi>Kingſton</hi> upon <hi>Thames.</hi>
+            </p>
+            <p>OF A Woman, who on <hi>Thurſday</hi> and <hi>Friday,</hi> being the 5<hi rend="sup">th.</hi> and 6<hi rend="sup">th.</hi> days of this In<g ref="char:EOLhyphen"/>ſtant <hi>March,</hi> 1673/4.</p>
+            <p>VVAS Delivered of Four Children at one Birth, <hi>Viz.</hi> Three Sons and one Daughter, all born alive, luſty Children, and Perfect in every Part; which lived 24 Hours, and then dyed all much about the ſame time.</p>
+            <p>VVITH Several Other Examples of Numerous Births From Credible Hiſtorians.</p>
+            <p>VVITH THE <hi>PHYSICAL</hi> and <hi>ASTROLOGICAL</hi> Reaſons for the ſame.</p>
+            <p>Publiſhed by <hi>J. P.</hi> Student in Phyſick.</p>
+            <p>Printed for <hi>Rich. Roffe,</hi> 1674.</p>
+            <pb facs="tcp:36320:2"/>
+            <pb facs="tcp:36320:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36320:3"/>
+            <pb n="3" facs="tcp:36320:3"/>
+            <head>THE Fruitful Wonder: OR, A Strange Relation from <hi>Kingſton,</hi> &amp;c.</head>
+            <p>
+               <hi>THat the firſt Riches of a Kingdom or Na<g ref="char:EOLhyphen"/>tion, is the Multitude of its Inhabitants, is a known Maxim in Politiques: whence ſeveral of the VViſeſt Legiſlators that An<g ref="char:EOLhyphen"/>tiquity can boast of, have made it a prin<g ref="char:EOLhyphen"/>cipal buſineſs in their Edicts, to endeavour the propagation and encreaſe of humane kind: Inflicting ſeve<g ref="char:EOLhyphen"/>ral Mulcts and penalties on thoſe wanton Libertines, who neg<g ref="char:EOLhyphen"/>lecting to Inroll themſelves at a convenient age under Hymans Banner, ſeem'd to take no care at all for poſterity: and on the other ſide, Encouraged with Rewards and priviledges, thoſe Laborious Husbandmen in Natures Vineyard, who Enrich'd their Country with a Numerous Off-ſpring.</hi>
+            </p>
+            <q>
+               <pb n="4" facs="tcp:36320:4"/>
+               <lg>
+                  <l>
+                     <hi>Naſcitur Indignè, per quem non naſcitur alter,</hi>
+                  </l>
+                  <l>
+                     <hi>Indignè vivit, per quem non vivit &amp; alter.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Uſeleſs his life, and to no purpoſe ſpent,</l>
+                  <l>By whom no have to the World is lent.</l>
+               </lg>
+            </q>
+            <p>Upon this Account Sterility or Barenneſs hath in all Ages and Countries been eſteemed a Reproach, and Fruitfulneſs an Happineſs and Honour: Of which latter kind, Nature to ſhew that ſhe is not yet grown ſo weak and decripit, as ſome ſneaking <hi>Doe-littles</hi> to excuſe their own Impotency, would repreſent her, has juſt now given a very Pregnant Inſtance, in a perſon of very good Cre<g ref="char:EOLhyphen"/>dit and Reputation, of <hi>Kingſtone</hi> upon <hi>Thames,</hi> in the County of <hi>Surry.</hi>
+            </p>
+            <p>This Good Woman being lately with Child, found her ſelf exceeding heavy and cumberſom, and appeared bigger then ordinary, eſpecially when her Reckoning began to grow neer expiring: ſo that Neighbours began generally to imagine ſhe would bring Twins <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>or were their Expectations herein fruſtrated, but ſurpaſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>For behold! On Thurſday the fifth of this Inſtant <hi>March,</hi> her appointed time approaching, ſhe is ſeized with thoſe terrible Child-bed-pangs, which <hi>Eves</hi> Tranſ<g ref="char:EOLhyphen"/>greſſion has unhappily entail'd on all her Daughters. In which tormenting Throws ſhe continued all that day, and the next: In which ſpace of time, ſhe was [to the great admiration of all the Women preſent] delivered of no leſs than four Children, [to wit) three Sons and one Daughter, they being all born alive, of a handſome large ſize and proportion, and had all their Limbs compleat and
+<pb n="5" facs="tcp:36320:4"/>
+perfect, nor was there any apparent cauſe to diſpair of their Living, but they continued not long, for within four and twenty hours after ſuch their reſpective births they were all ſnatcht away by Death, like early Flowers nipt in the Budd: paſſing, as it were, Poſt through this troubleſom Stage of Mortality, from the Womb of their particular Parent, to that of our common Mother, the Earth.</p>
+            <p>The Woman, though much weakned with ſo hard and tedious a Labour, is like to do very well, but is much afflicted for the loſs of her Children.</p>
+            <p>
+               <hi>Ariſtotle</hi> (heretofore accounted the Philoſophers Pope) whoſe Dictates paſs'd for Infallible) tells us of VVomen in <hi>Aegypt,</hi> that uſually brought five Children at a time, which both he and <hi>Solinus</hi> attribute to the fecundity of the River <hi>Nilus,</hi> whereof they uſed to Drink. And ſaith, that it was never known, that ever any was brought to Bed of more at once.</p>
+            <p>But herein we muſt crave leave to diſſent from this great Secretary of Nature, Experience Evidencing the contrary, that ſome VVomen have had Seven at a Birth.</p>
+            <p>And the Learned <hi>Enſtathius</hi> (an Author of ſufficient judgement and credit) in his Notes upon <hi>Homer,</hi> aſſerts on his Veracity, That he knew a Noble Matron, who was at one birth Delivered of Nine Children in the abſence of her Husband: but being a Perſon of Quality, and One in whom it ſeems Pride had over<g ref="char:EOLhyphen"/>powred Nature, and cruel fancy ſway'd more than re<g ref="char:EOLhyphen"/>ligious duty, ſhe took a conceit that her Husband would ſlight her henceforwards, and that ſhe ſhould looſe ſome<g ref="char:EOLhyphen"/>thing of her Intereſt in his Affections by bringing forth ſuch a Litter of Children; Hereupon ſhe reſolves to drown ſe<g ref="char:EOLhyphen"/>ven of them, and having given the Midwife a Bribe to look
+<pb n="6" facs="tcp:36320:5"/>
+up her Tongue, ſhe chooſes out two of her nine Children which ſhe fancied beſt, and gave the reſt to the Nurſe to go drown them in a River in the Evening, who moſt barbo<g ref="char:EOLhyphen"/>rouſly conſented to do its but juſt when ſhe was come down to the River and was ſtanding upon the Bride, ready to put the S<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ge deſign in Execution; Her Maſter the Father of t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ldren returning homewards from a journey hapen<g ref="char:EOLhyphen"/>ed to Ride by, who knowing the Nurſe and being much co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cerned to hear the cries of ſo many Children (for ſhe had all the ſeven Children in a Hand basket) ſhe at firſt endeavored to put him off by pretending they were onely a parcel of Kitlings which ſhe was going to deſtroy, but he being a great lover of Cats, would needs ſee them to ſave the prettyeſt, which ſhe ſeeming ſtrongly loath to admit, he at laſt by force compelled her to ſhew him, when to his amazement falling on her knees and begging his pardon, ſhe produced ſeven of his own Children devoted for death by her wicked hands, if ſhe had not been thus miraculouſly prevented, and withal told him the whole ſtory, and the rea<g ref="char:EOLhyphen"/>ſons that prompted his Wife to this unnatural intention. vvhereupon makeing her haſte home, he put them out ſeve<g ref="char:EOLhyphen"/>rally to Nurſe immediately, &amp; they all lived till they were grown to Maturity; but the Gentleman would never after<g ref="char:EOLhyphen"/>wards live or aſſociate with his bloody inhumane Wife.</p>
+            <p>To this we might add a thouſand the like ſtrange Rela<g ref="char:EOLhyphen"/>tions, if we had the unity to make oſtentation of Reading, ſuch as that <hi>Eraſmus</hi> mentions in <hi>Chiliade</hi> of a Woman na<g ref="char:EOLhyphen"/>med <hi>Combe</hi> that dwelt in <hi>Euboeia</hi> that had a hundred chil<g ref="char:EOLhyphen"/>dren by one Husband.</p>
+            <p>Or that which <hi>Ludovicas Vives</hi> aſſerts himſelf to have ſeen, <hi>viz.</hi> A Countrey-man in <hi>Spain</hi> (a place and people none of the fruitfulleſt) whoſe Children whilſt he was li<g ref="char:EOLhyphen"/>ving
+<pb n="7" facs="tcp:36320:5"/>
+had peopled a Town of above one hundred dwelling houſes, and were ſpread ſo far that they had left off the Name of Relations, nor need this ſeem incredible, ſince there was (within this twelve months if not ſtill) a Woman living in <hi>Lancaſhire,</hi> that has often been heard truly and properly to ſay, <hi>Do you hear daughter, run and tell your Grand-daughter that her Daughters Child cries.</hi>
+            </p>
+            <p>What ſhall we ſay of <hi>Hieorom</hi> King of <hi>Arabia</hi> whom <hi>Juſtin</hi> tells us had above ſix hundred natural Sons by ſeveral Concubines, of <hi>Artaxerxes</hi> who had a hundred and fifteen, or that luſty Roman <hi>Bellſwagger, Proculus Caeſar,</hi> who (as <hi>Mizeldus</hi> an eminent Phyſitian aſſures us) got more than one hundred Virgins with-child in the ſpace of fifteen days.</p>
+            <p>This is certain, <hi>Auguſtus Caeſar</hi> ſaw his Grand-daughters Grand-ſon, <hi>M. Sillanus,</hi> and one <hi>Stetini</hi> an <hi>Italian</hi> Lady, dying in the 87th. year of her age, beheld with her own eyes ſprung from her own body of Children and Grandchildren, &amp;c. To the number of one hundred twenty and five. And the Illuſtrous <hi>John Count Naſſaw</hi> in the laſt age in like man<g ref="char:EOLhyphen"/>ner eighty and five perſons of his own and his Childrens begetting all alive at once before his death.</p>
+            <p>We might be tedious in ſuch inſtances ſince every Poſti<g ref="char:EOLhyphen"/>ler and Breivary can furniſh us with ſuch pocket Learning: Theſe are more than enough to prove the matter of fact, and it might now perhaps be no more grateful and diverti<g ref="char:EOLhyphen"/>ſing to the Reader if we would leave the ſteril road of Hi<g ref="char:EOLhyphen"/>ſtory to take a walk or two in the more pleaſing Gardens of Philoſophy, inquiring how it comes to paſs that ſuch nu<g ref="char:EOLhyphen"/>merous births are produced; But theſe are <hi>Arcana</hi> Nature, not fit to be proſtituted in a Pamphlet, ſome Anatomiſts, &amp; not a few Phyſitians have done it too much to our Hand, we ſhall conclude with an Aphoriſm of Aſtrology on this
+<pb n="8" facs="tcp:36320:6"/>
+Theme, from <hi>Guido Bonatus, part.</hi> 2. <hi>Cap.</hi> 5. VVhich we conceive very pertinent to our preſent Subject. <hi>Vide ſi fuerit aſcendens</hi> Gemini, <hi>aut</hi> Virgo, Piſces, <hi>vel</hi> Sagitarius, <hi>aut ſi duo boni planetae fuerint in aſcendente vel quinta, Concepit hi<g ref="char:EOLhyphen"/>nos; ſi autem fuerit ibi cum eis Caput</hi> Draconis, <hi>dic quod partet <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> utero plus quam duobus, &amp; poſſibile eſt quod portet quatuor</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; VVhen 'tis enquired how many children a VVoman goes with, ſee if <hi>Gemini, Virgo, Piſces,</hi> or <hi>Sagitary</hi> aſcend, or if there be two good planets in the aſcendant or 5th. houſe, then hath ſhe conceived two, but if the Dragons head be there with them, ſay, ſhe carries more than two, and that 'tis poſſible ſhe may have Four.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36320:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
